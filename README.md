@@ -1,5 +1,6 @@
 DBS30
 HOW TO RUN OUR PROGRAM
+
 Step 1: Install dependencies:
 npm install express pg body-parser cors
 
